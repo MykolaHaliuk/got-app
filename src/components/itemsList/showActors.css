@@ -1,0 +1,12 @@
+.wrapper{
+    width: 400px;
+    color: white;
+}
+
+.table{
+    background-color: #fff;
+    margin-top: 50px;
+}
+.select{
+    cursor: pointer;
+}

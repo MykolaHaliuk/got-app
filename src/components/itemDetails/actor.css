@@ -1,0 +1,16 @@
+.wrapper-row{
+    display: flex;
+    justify-content: space-between;
+    
+}
+
+.table{
+    background-color: #fff;
+    margin-top: 50px;
+    max-width: 500px;
+}
+.text{
+    font-size: 24px;
+    font-weight: bold;
+    color: white;
+}

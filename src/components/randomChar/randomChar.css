@@ -1,0 +1,20 @@
+
+.table-random{
+    background-color: #fff;
+    margin-top: 50px;
+    max-width: 500px;
+    min-height: 250px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 10px;
+}
+.center{
+    text-align: center;
+    border-bottom: none !important;
+    min-width: 300px;
+    
+}
+.tableR{
+    margin-top: 0 !important;
+}
